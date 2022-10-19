@@ -1,7 +1,7 @@
 {
   "headers": [
     "progress_helper",
-    "skippable_cutscenes",
+    "skip_cutscenes",
     "autoplants",
     "no_branch",
     "tp_refill",

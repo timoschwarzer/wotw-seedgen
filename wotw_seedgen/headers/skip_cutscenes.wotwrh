@@ -1,4 +1,4 @@
-/// Skippable Cutscenes
+/// Skip Cutscenes
 ///
 /// skips several short cutscenes
 !!include header_core
